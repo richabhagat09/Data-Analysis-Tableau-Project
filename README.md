@@ -1,6 +1,7 @@
 # Data-Analysis-Tableau-Project-
  "Global Sports Finances" is a Tableau data visualization project that analyzes financial trends across various sports, countries, and years. The goal is to present interactive dashboards and KPIs that provide insights into spending, revenues, sponsorships, and financial performance in the global sports industry.
 
+# Global Sports Finances Analysis
 ## Project Objective / Problem Statement
 How are finances distributed across different sports globally?
 This project aims to identify patterns in financial allocations, compare country-wise and sport-wise expenditure, and determine KPIs such as revenue, growth trends, and top-funded sports.
